@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tech-workers
-- 👀 I’m interested in technology & innovation
+- 👀 I’m interested in Technology & Innovation
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on the future
 - 📫 How to reach me techworkers.nl
